@@ -1,6 +1,7 @@
 My Favorite commands are 
 1 - Git status 
-It is a very handy command while working on a git project .I start with it to see in which branch I am , If there is something to commit.It is used to display the state of the repository and staging area. It allows us to see the tracked , untracked files and changes.It is used to dispay the state between "Git Add" and "Git Commit" command . we can check wether the changes and files are tracked or not. I can use it after every step to check my work.
+It is a very handy command while working on a git project .I start with it to see in which branch I am and If there is something to commit.
+It is used to display the state of the repository and staging area. It allows us to see the tracked , untracked files and changes.It is used to dispay the state between "Git Add" and "Git Commit" commands . we can check wether the changes and files are tracked or not. I can use it after every step to check my work.
 2-Git diff
 To see the difference between tracked files in the working trees and the staging area. personally I use it when i want to write a commit message, it helps me to see the changes and rearrange my ideas to write a descriptive message.   
 
